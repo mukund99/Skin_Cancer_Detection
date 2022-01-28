@@ -6,4 +6,5 @@ Steps involved using in this project
 3. Compiling the model
 4. Training the model on the train set and testing it on the test set
 5. Plotting the accuracy and loss of both train and test set
+Dataset Link: https://www.kaggle.com/fanconic/cnn-for-skin-cancer-detection/data
 
